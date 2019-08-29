@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{D1D5BED3-A04A-C9F7-C20F-B7559197D8A2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="13" Column="5" />
+      <File FileName="Assets/Lean/Touch/Examples/Scripts/LeanFingerSwipe.cs" />
+      <File FileName="Assets/Lean/Touch/Scripts/LeanFinger.cs" />
+      <File FileName="Assets/Lean/Touch/Scripts/LeanTouch.cs" />
+      <File FileName="Assets/Scripts/LevelUpdate.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b4a4271b-bea3-4cb6-ae43-40f78829dd75" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
